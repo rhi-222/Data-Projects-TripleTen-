@@ -11,7 +11,7 @@ A curated collection of **data science projects** completed as part of the **Tri
   *Built a regression model to forecast oil well profitability for investment decisions.*  
 - **[Bank Churn Prediction](https://github.com/rhi-222/bank-churn-prediction)**  
   *Implemented a supervised learning model to predict customer churn for a financial institution.*  
-- **SQL + Data Collection Project (Coming Soon)**  
+- **[SQL + Data Collection Project](https://github.com/rhi-222/chicago-taxi-sql-analysis)**  
   *Exploring database management, querying, and data extraction using SQL.*  
 - **Streamlit Web App (Coming Soon)**  
   *Deploying an interactive data visualization dashboard with Streamlit.*
